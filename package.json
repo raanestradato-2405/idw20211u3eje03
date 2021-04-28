@@ -2,5 +2,27 @@
   "dependencies": {
     "numalet": "^0.2.1",
     "number-to-words": "^1.2.4"
-  }
+  },
+  "name": "ejercicio03",
+  "version": "1.0.0",
+  "description": "Numero a letra",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raanestradato-2405/idw20211u3eje03.git"
+  },
+  "keywords": [
+    "numero",
+    "letra"
+  ],
+  "author": "Ramon Antonio Estrada Torres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raanestradato-2405/idw20211u3eje03/issues"
+  },
+  "homepage": "https://github.com/raanestradato-2405/idw20211u3eje03#readme"
 }
